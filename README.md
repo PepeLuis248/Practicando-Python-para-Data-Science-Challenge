@@ -12,3 +12,5 @@ en estos cinco aspectos:
 5)y cuál es el costo promedio del envío desde la tienda hasta el lugar de cada uno de los clientes.
 
 Con estos datos, ayudara al señor Juan a tomar una decisión fundamental y estratégica.
+
+Trabajo práctico realizado para Oracle Next Education - Alura
